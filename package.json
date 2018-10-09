@@ -1,0 +1,21 @@
+{
+  "name": "financialCrmBot",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Financial Crm Bot",
+  "main": "server.js",
+  "author": {
+    "name": "Idan",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+	"botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-zip": "^3.0.2",
+    "minimist": "^1.2.0"
+  }
+}
